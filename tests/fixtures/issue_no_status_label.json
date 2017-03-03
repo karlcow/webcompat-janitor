@@ -1,0 +1,70 @@
+{
+  "url": "https://api.github.com/repos/webcompat/web-bugs/issues/1",
+  "repository_url": "https://api.github.com/repos/webcompat/web-bugs",
+  "labels_url": "https://api.github.com/repos/webcompat/web-bugs/issues/1/labels{/name}",
+  "comments_url": "https://api.github.com/repos/webcompat/web-bugs/issues/1/comments",
+  "events_url": "https://api.github.com/repos/webcompat/web-bugs/issues/1/events",
+  "html_url": "https://github.com/webcompat/web-bugs/issues/1",
+  "id": 30515129,
+  "number": 1,
+  "title": "art images missing border image",
+  "user": {
+    "login": "miketaylr",
+    "id": 67283,
+    "avatar_url": "https://avatars2.githubusercontent.com/u/67283?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/miketaylr",
+    "html_url": "https://github.com/miketaylr",
+    "followers_url": "https://api.github.com/users/miketaylr/followers",
+    "following_url": "https://api.github.com/users/miketaylr/following{/other_user}",
+    "gists_url": "https://api.github.com/users/miketaylr/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/miketaylr/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/miketaylr/subscriptions",
+    "organizations_url": "https://api.github.com/users/miketaylr/orgs",
+    "repos_url": "https://api.github.com/users/miketaylr/repos",
+    "events_url": "https://api.github.com/users/miketaylr/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/miketaylr/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "labels": [
+    {
+      "id": 90471196,
+      "url": "https://api.github.com/repos/webcompat/web-bugs/labels/browser-firefox",
+      "name": "browser-firefox",
+      "color": "FF4E00",
+      "default": false
+    }
+  ],
+  "state": "closed",
+  "locked": false,
+  "assignee": null,
+  "assignees": [
+
+  ],
+  "milestone": null,
+  "comments": 6,
+  "created_at": "2014-03-31T14:14:46Z",
+  "updated_at": "2016-01-27T08:58:36Z",
+  "closed_at": "2016-01-27T08:58:36Z",
+  "body": "**URL**: http://shinydemos.com/border-salon/\n**Browser**: Firefox \n**Version**: 31 (Nightly)\n**Problem type**: Looks like the website has a bug.\n**Site owner**: No\n\n**Steps to Reproduce**\n1) Navigate to http://shinydemos.com/border-salon/\n2) That's it. \n\nExpected behavior: The images have \"frames\" just like in Chrome.\nActual behavior: The frames are missing.\n",
+  "closed_by": {
+    "login": "webcompat-bot",
+    "id": 8862693,
+    "avatar_url": "https://avatars0.githubusercontent.com/u/8862693?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/webcompat-bot",
+    "html_url": "https://github.com/webcompat-bot",
+    "followers_url": "https://api.github.com/users/webcompat-bot/followers",
+    "following_url": "https://api.github.com/users/webcompat-bot/following{/other_user}",
+    "gists_url": "https://api.github.com/users/webcompat-bot/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/webcompat-bot/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/webcompat-bot/subscriptions",
+    "organizations_url": "https://api.github.com/users/webcompat-bot/orgs",
+    "repos_url": "https://api.github.com/users/webcompat-bot/repos",
+    "events_url": "https://api.github.com/users/webcompat-bot/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/webcompat-bot/received_events",
+    "type": "User",
+    "site_admin": false
+  }
+}
