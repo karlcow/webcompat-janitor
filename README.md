@@ -7,7 +7,7 @@ This code was to address some [recurring issues](https://github.com/webcompat/we
 
 ## Business Rules
 
-* ERROR: Closed issues must have a label in [`status-fixed`, `status-duplicate`, `status-incomplete`, `status-wontfix`, `status-worksforme`, `status-invalid`].
-* ERROR: Closed and open issues have one and only one `status-*` label.
-* WARNING: issues without a `browser-*` label.
-* WARNING: issues without a `type-*` label.
+* [*] ERROR: Closed issues must have a label in [`status-fixed`, `status-duplicate`, `status-incomplete`, `status-wontfix`, `status-worksforme`, `status-invalid`].
+* [*] ERROR: Closed and open issues have one and only one `status-*` label.
+* [ ] WARNING: issues without a `browser-*` label.
+* [ ] WARNING: issues without a `type-*` label.
