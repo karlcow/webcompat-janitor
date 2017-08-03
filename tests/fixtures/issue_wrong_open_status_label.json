@@ -3,6 +3,9 @@
   "labels": [
     {
       "name": "browser-firefox"
+    },
+    {
+      "name": "status-fixed"
     }
   ],
   "state": "open"

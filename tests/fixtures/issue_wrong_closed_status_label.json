@@ -3,7 +3,10 @@
   "labels": [
     {
       "name": "browser-firefox"
+    },
+    {
+      "name": "status-needsdiagnosis"
     }
   ],
-  "state": "open"
+  "state": "closed"
 }

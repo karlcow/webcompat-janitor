@@ -1,0 +1,18 @@
+{
+  "number": 1,
+  "labels": [
+    {
+      "name": "browser-firefox"
+    },
+    {
+      "name": "status-needstriage"
+    },
+    {
+      "name": "status-needscontact"
+    },
+    {
+      "name": "status-needsinfo"
+    }
+  ],
+  "state": "open"
+}
