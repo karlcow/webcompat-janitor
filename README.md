@@ -11,3 +11,19 @@ This code was to address some [recurring issues](https://github.com/webcompat/we
 * [x] ERROR: Closed and open issues have one and only one `status-*` label.
 * [ ] WARNING: issues without a `browser-*` label.
 * [ ] WARNING: issues without a `type-*` label.
+
+
+## Example:
+
+Example of output
+
+```
+15:25:32: Issue 1
+15:25:32: Issue 1 has no status label
+15:25:34: Issue 1099
+15:25:34: Too many labels for 1099: [u'status-contactready', u'status-needscontact']
+15:25:34: Issue 1100
+15:25:34: Wrong label for 1100: closed <> [u'status-needsdiagnosis']
+15:25:35: Issue 1101
+15:25:35: Wrong label for 1101: open <> [u'status-fixed']
+```
